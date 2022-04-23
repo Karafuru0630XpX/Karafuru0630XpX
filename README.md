@@ -7,11 +7,13 @@ I'm a person who tries all kinds of things.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karafuru0630XpX&theme=vue)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Karafuru0630XpX&theme=%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karafuru0630XpX&layout=compact&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Karafuru0630XpX)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Favorite language
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
