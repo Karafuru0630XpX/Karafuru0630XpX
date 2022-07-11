@@ -37,3 +37,4 @@ I'm a person who tries all kinds of things.
 - 好きな言語 : Java
 - ターミナル : Hyper
 - OS : Windows 10
+- 今年の抱負 : しっかり最後まで作ること
